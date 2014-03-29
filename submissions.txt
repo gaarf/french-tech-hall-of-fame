@@ -1,4 +1,1 @@
-- Corentin Kerisit (Partech venture, ...)
-- Uriel Corfa (Google)
-- François-Xavier Bourlet (Google, dotCloud)
 - Mathieu Bastian (LinkedIn)
