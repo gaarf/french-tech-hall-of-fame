@@ -1,1 +1,4 @@
-- Franck Denis (OpenDNS, pure-ftpd, ...)
+- Corentin Kerisit (Partech venture, ...)
+- Uriel Corfa (Google)
+- François-Xavier Bourlet (Google, dotCloud)
+- Mathieu Bastian (LinkedIn)
