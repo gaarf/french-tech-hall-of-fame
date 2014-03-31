@@ -1,1 +1,3 @@
 - Mathieu Bastian (LinkedIn)
+- Adrien Cahen (Yahoo!, Twitter, Tapcanvas, Javascript)
+- Fabien Penso (Linuxfr)
